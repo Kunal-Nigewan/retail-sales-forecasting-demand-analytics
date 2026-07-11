@@ -4,6 +4,12 @@ An end-to-end Data Analytics and Machine Learning project that analyzes historic
 
 ---
 
+## 🚀 Project Overview
+
+This project focuses on retail sales analysis using time series forecasting and machine learning techniques. It provides business insights through data visualization, sales forecasting, anomaly detection, and product demand segmentation.
+
+---
+
 ## 📌 Problem Statement
 
 Retail businesses generate large volumes of sales data every day, making it difficult to identify trends, forecast future demand, detect unusual sales patterns, and understand product demand behavior. Manual analysis is often time-consuming and may lead to inefficient inventory planning and business decisions.
@@ -12,9 +18,10 @@ This project aims to develop an intelligent sales forecasting and demand analyti
 
 ---
 
-## 🚀 Project Overview
+## 📂 Dataset
 
-This project focuses on retail sales analysis using time series forecasting and machine learning techniques. It provides business insights through data visualization, sales forecasting, anomaly detection, and product demand segmentation.
+- **Dataset:** Sample Superstore Dataset
+- **Source:** https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 ---
 
