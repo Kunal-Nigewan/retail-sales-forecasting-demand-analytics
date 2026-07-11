@@ -90,18 +90,17 @@ This project focuses on retail sales analysis using time series forecasting and 
 
 ## 📂 Project Structure
 
-'''text
+```text
 retail-sales-forecasting-demand-analytics/
-│
-├── analysis.ipynb
-├── app.py
-├── SampleSuperstore.csv
-├── requirements.txt
-├── README.md
-├── Retail_Sales_Executive_Report.pdf
+│── analysis.ipynb
+│── app.py
+│── SampleSuperstore.csv
+│── requirements.txt
+│── README.md
+│── Retail_Sales_Executive_Report.pdf
 └── outputs/
-    ├── outputs.png
-'''
+    └── outputs.png
+```
 
 ## 👨‍💻 Author
 
